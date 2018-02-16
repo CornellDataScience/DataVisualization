@@ -13,7 +13,7 @@ Read through Web Standards, Parts of a Graph, and Data Binding in this [Intro to
 The data join can be rather confusing in D3. Read [this article](https://bost.ocks.org/mike/join/) about joins written by Mike Bostock, the creator of D3. It's not required, but you can also check out his visualization of the data join [here](https://bl.ocks.org/mbostock/3808218).
 
 ## Examples
-Go through the examples found on Intro to D3. When you're done you should have a page that looks like [this](https://bl.ocks.org/linnealovespie/raw/f59eefd2f3bf962fc15016f7853de068/). Instead of having all the code in one file, best practice is to split up the HTML, CSS, and Javascript for each visualization. In this case, you would have each of the following files, with imports to each: 
+Go through the [examples](http://square.github.io/intro-to-d3/examples/) found on Intro to D3. When you're done you should have a page that looks like [this](https://bl.ocks.org/linnealovespie/raw/f59eefd2f3bf962fc15016f7853de068/). Instead of having all the code in one file, best practice is to split up the HTML, CSS, and Javascript for each visualization. In this case, you would have each of the following files, with imports to each: 
 1. Index.html: The structure of the page
 2. Style.css: Where the custom styling goes for your elements
 3. Vis1.js: The d3 code for the first visualization
