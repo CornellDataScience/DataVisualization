@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- title of the page -->
+    <title>tutorial</title>
+  </head>
+  <!-- link d3 package -->
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <!-- add css file -->
+  <link rel="stylesheet" href="style.css" type="text/css" property="stylesheet">
+  <!-- body -->
+  <body>
+    <!-- circle rect, connect to css -->
+    <div id = "prompt1">
+      <svg width="300" height="180">
+        <circle cx="30"  cy="50" r="25" />
+        <circle cx="90"  cy="50" r="25" class="red" />
+        <circle cx="150" cy="50" r="25" class="fancy" />
+        <rect x="10"  y="80" width="40" height="40" fill="steelBlue" />
+        <rect x="70"  y="80" width="40" height="40" style="fill: steelBlue" />
+        <rect x="130" y="80" width="40" height="40" class="fancy" />
+      </svg>
+    </div>
+
+    <!-- g element, path, text -->
+    <div id = "prompt2">
+      <svg width="300" height="180">
+        <g transform="translate(5, 15)">
+          <text x="0" y="0">Howdy!</text>
+        </g>
+
+        <g transform="translate(5, 55)">
+        <!-- M: move to (jump)
+             L: line to
+             Q: curve to (quadratic) -->
+          <path d="M0,50 L50,0 Q100,0 100,50" fill="none" stroke-width="3" stroke="black" />
+        </g>
+
+        <g transform="translate(5, 105)">
+          <!-- C: curve to (cubic)
+               Z: close shape -->
+          <path d="M0,100 C0,0 25,0 125,100 Z" fill="black" />
+        </g>
+      </svg>
+    </div>
+
+    <div id = "prompt3">
+    </div>
+
+    <div id = "prompt4">
+    </div>
+
+    <div id = "prompt5">
+    </div>
+    <input type="button" value="Click Me">
+
+    <div id = "prompt6">
+    </div>
+
+    <div id = "prompt7">
+    </div>
+
+    <script src ="vis.js"></script>
+    <script src ="vis2.js"></script>
+    <script src ="vis3.js"></script>
+    <script src ="vis4.js"></script>
+    <script src ="vis5.js"></script>
+  </body>
+</html>
