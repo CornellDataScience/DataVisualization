@@ -5,7 +5,9 @@ Welcome to Data Visualization! This semester we will be extensively using a Java
 This first tutorial will: 
 1. Go over the basics of HTML, CSS, and Javascript
 2. Teach some of the fundamentals of D3
-3. Give you some practice with writing code in D3
+3. Give you some practice with writing code in D3 and creating gists. 
+
+If you have already worked in D3 before, refer to the "Expereinced" section. 
 
 ## Intro to D3 and Web Frameworks
 Read through Web Standards, Parts of a Graph, and Data Binding in this [Intro to D3](http://square.github.io/intro-to-d3/web-standards/). 
@@ -19,10 +21,13 @@ Go through the [examples](http://square.github.io/intro-to-d3/examples/) found o
 3. Vis1.js: The d3 code for the first visualization
 4. … Vis5.js: The d3 code for the fifth visualization
 
-The code for these visualizations can be found [in the hw1 folder](https://github.com/CornellDataScience/DataVisualization/tree/master/Member_Training/hw1) but instead of just copy/paste, write out the code yourself to make sure you understand the syntax. 
+The code for these visualizations can be found [in the hw1 folder](https://github.com/CornellDataScience/DataVisualization/tree/master/Member_Training/hw1) but instead of just copy/paste, write out the code yourself to make sure you understand the syntax. Make sure to create a gist of your completed code (see below). 
+
+## Experienced People
+If you already know D3 and don't need the examples, your task is to create a force layout diagram. A good article can be found [here](http://d3indepth.com/force-layout/) explaining how it's done, and [Mike Bostock's example](https://bl.ocks.org/mbostock/1747543) is a good model to follow. You should also create a gist of your completed code (see the section below).
 
 ## Gists
-Once you have completed the examples, add them as a gist to github. Once you do so, you can see the visualizations live by replacing gist.github.com with bl.ocks.org. For example, https://gist.github.com/linnealovespie/...would become https://bl.ocks.org/linnealovespie/…
+Once you have completed the visualization(s), add them as a [gist](https://gist.github.com/) to github. Once you do so, you can see the visualizations live by replacing gist.github.com with bl.ocks.org. For example, https://gist.github.com/linnealovespie/... would become https://bl.ocks.org/linnealovespie/…
 
 In order for the visualization to properly generate on bl.ocks, you must have a file called index.html. 
 
