@@ -1,0 +1,23 @@
+body {
+font-family: arial,
+    sans;
+}
+.tooltip {
+    position: absolute;
+    opacity: 0;
+    height: auto;
+    background: none repeat scroll 0 0 #ffffff;
+    border: 1px solid #6F257F;
+    padding: 4px;
+    text-align: center;
+    font-size: 0.6em;
+}
+.legend {
+    font-size: 0.6em;
+}
+.xAxisLabel,
+.yAxisLabel {
+    font-size: 0.9em;
+    text-anchor: end;
+    fill: black;
+}
