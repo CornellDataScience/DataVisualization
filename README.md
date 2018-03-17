@@ -18,9 +18,13 @@ The Data Visualization (DE) team is one of the three subteams in [Cornell Data S
 ## This Semester
 For our first semester we are working on building up the team and our projects, with a strong focus on visualizing how different algorithms in the field of data science function. 
 
-* ### [**Project A**](https://github.com/CornellDataScience/GroupA)
+### [**Social Tribes**](https://github.com/CornellDataScience/Social-Tribes)  
+Visualizing the clustering of political figures on Twitter.  
+Members: Andrew Tsarikis, Danny Yang, Kevin Ngo, Max Chen, Sam Kitterman, Shalin Mehta  
 
-* ### [**Project B**](https://github.com/CornellDataScience/GroupA)
+### [**Wikipedia**](https://github.com/CornellDataScience/Wikipedia)  
+ Visualizing the hierarchial structure of knowledge using Wikipedia articles.   
+ Members: Jim Li, Linnea May, Nikhil Saggi, Xinqi Lyu, Ziwei Gu
 
 
 
