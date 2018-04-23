@@ -1,7 +1,7 @@
 # Data Visualization
 Data Vis Subteam
 
-[![Cornell Data Science Logo](CDS-banner.png)](cornelldata.science)
+![](20180422_152501.jpg)
 
 **Team Leads:** [Linnea May](https://github.com/linnealovespie) (CS '21) and [Kenta Tatsaku](https://github.com/Kenta426) (CS '19)  
 **Advisor:** [Prof. Jeff Rzeszotarski](https://jeffrz.com/)
