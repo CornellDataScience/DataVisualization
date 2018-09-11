@@ -1,5 +1,5 @@
-# Data Visualization
-Data Vis Subteam
+# Insights
+Insights Subteam
 
 ![](20180422_152501.jpg)
 
@@ -20,7 +20,7 @@ For our first semester we are working on building up the team and our projects, 
 
 ### [**Social Tribes**](https://github.com/CornellDataScience/Social-Tribes)  
 Visualizing the clustering of political figures on Twitter.  
-Members: Andrew Tsarikis, Danny Yang, Kevin Ngo, Max Chen, Sam Kitterman, Shalin Mehta  
+Members: Danny Yang, Kevin Ngo, Max Chen, Sam Kitterman, Shalin Mehta  
 
 ### [**Wikipedia**](https://github.com/CornellDataScience/Wikipedia)  
  Visualizing the hierarchial structure of knowledge using Wikipedia articles.   
