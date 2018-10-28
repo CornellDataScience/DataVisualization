@@ -1,7 +1,7 @@
 # Insights
 Insights Subteam
 
-**Team Leads:** [Linnea May](https://github.com/linnealovespie) (CS '21) and [Kenta Tatsaku](https://github.com/Kenta426) (CS '19)  
+**Team Leads:** [Linnea May](https://github.com/linnealovespie) (CS '21) and [Kenta Takatsu](https://github.com/Kenta426) (CS '19)  
 **Advisor:** [Prof. Jeff Rzeszotarski](https://jeffrz.com/)
 
 ## About Us
