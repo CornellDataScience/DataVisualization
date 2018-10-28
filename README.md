@@ -10,7 +10,7 @@ The Insighs team is one of the three subteams in [Cornell Data Science](cornelld
 2. Creating visual interfaces that display the knowledge to an audience, and researching the best ways of doing so. 
 
 ## Current Projects
-### [**Fake News**](https://github.com/CornellDataScience/Social-Tribes)  
+### [**Fake News**](https://github.com/CornellDataScience/Insights-FakeNews)  
 Analyzing and visualizing methods to identify fake news.  
 Members: Danny Yang, Max Chen, Shalin Mehta, Brandon Truong, James Chen
  
