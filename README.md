@@ -11,15 +11,15 @@ The Insighs team is one of the three subteams in [Cornell Data Science](cornelld
 
 ## Current Projects
 ### [**Fake News**](https://github.com/CornellDataScience/Social-Tribes)  
-Analyzing and visualizing methods to identify fake news. 
+Analyzing and visualizing methods to identify fake news.  
 Members: Danny Yang, Max Chen, Shalin Mehta, Brandon Truong, James Chen
  
 ### [**Neural Network**](https://github.com/CornellDataScience/insights-vizNNs)  
-Building a tool to visualize the training progress of advanced neural networks architecture.    
+Building a tool to visualize the training progress of advanced neural networks architecture.     
 Members: Linnea May, Jenny Chen
  
 ### [**Wikinsights**](https://github.com/CornellDataScience/Wikipedia)  
-Visualizing the hierarchial structure of knowledge using Wikipedia articles.   
+Visualizing the hierarchial structure of knowledge using Wikipedia articles.    
 Members: Nikhil Saggi, Xinqi Lyu, Ziwei Gu, Eric Sun, Deb Bhattacharya, Ellen Chen
 
 ## Past Projects
@@ -27,7 +27,6 @@ For our first semester we are working on building up the team and our projects, 
 
 ### [**Social Tribes**](https://github.com/CornellDataScience/Social-Tribes)  
 Analyzing the cluster of political journalists in Twitter through different unsupervised learning algorithms.
-Our final project is available [here](http://www.unprofessionalperspective.com/posts/social-tribes.html).
-
+Our final project is available [here](http://www.unprofessionalperspective.com/posts/social-tribes.html).   
 Members: Danny Yang, Max Chen, Shalin Mehta, Sam Kitterman, Kevin Ngo
   
