@@ -11,7 +11,7 @@ The Insighs team is one of the three subteams in [Cornell Data Science](cornelld
 
 ## Current Projects
 ### [**Fake News**](https://github.com/CornellDataScience/Insights-FakeNews)  
-<p align="center">
+<p align="left">
   <img src="./tree.png" width="50%">
 </p>
 Analyzing and visualizing methods to identify fake news.  
@@ -19,7 +19,7 @@ Analyzing and visualizing methods to identify fake news.
 Members: Danny Yang, Max Chen, Shalin Mehta, Brandon Truong, James Chen
  
 ### [**Neural Network**](https://github.com/CornellDataScience/insights-vizNNs)  
-<p align="center">
+<p align="left">
   <img src="./nn.png" width="50%">
 </p>
 Building a tool to visualize the training progress of advanced neural networks architecture.     
@@ -27,7 +27,7 @@ Building a tool to visualize the training progress of advanced neural networks a
 Members: Linnea May, Jenny Chen
  
 ### [**Wikinsights**](https://github.com/CornellDataScience/Wikipedia)  
-<p align="center">
+<p align="left">
   <img src="./wiki.png" width="50%">
 </p>
 Visualizing the hierarchial structure of knowledge using Wikipedia articles.    
