@@ -1,7 +1,7 @@
 # Insights
 Insights Subteam
 
-**Team Leads:** [Linnea May](https://github.com/linnealovespie) (CS '21) and [Kenta Takatsu](https://github.com/Kenta426) (CS '19)  
+**Team Leads:** [Linnea May](https://github.com/linnealovespie) (CS '21) and [Max Chen](https://github.com/maxlchen) (CS '21)  
 **Advisor:** [Prof. Jeff Rzeszotarski](https://jeffrz.com/)
 
 ## About Us
@@ -14,10 +14,27 @@ The Insighs team is one of the three subteams in [Cornell Data Science](cornelld
 <p align="left">
   <img src="./tree.png" width="50%">
 </p>
-Analyzing and visualizing methods to identify fake news.  
+Analyzing and visualizing methods to identify fake news. 
 
-Members: Danny Yang, Max Chen, Shalin Mehta, Brandon Truong, James Chen
- 
+Members: Danny Yang, Linnea May, Eric Sun, Kathy JaYoung Byun
+
+### [**Spotify Recommendations**](https://github.com/CornellDataScience/Insights)  
+Creating a new, more intuititve interface for recommending songs on Spotify. 
+
+Members: Brandon Truong, James Chen, Max Chen, Shalin Mehta
+
+
+### [**Knowledge Graphs**](https://github.com/CornellDataScience/Insights)  
+Compiling and visualizing a knowledge graph of academic articles. 
+
+Members: Ziwei Gu, Jenny Chen, Kevin Ngo, Tushar Khan
+
+### [**Comment Toxicity**](https://github.com/CornellDataScience/Insights)  
+Identifying and visualizing the presence of toxic comments online. 
+
+Members: Deb Bhattacharya, Nikhil Saggi, Ruchika Dongre 
+
+## Past Projects
 ### [**Neural Network**](https://github.com/CornellDataScience/insights-vizNNs)  
 <p align="left">
   <img src="./nn.png" width="50%">
@@ -33,9 +50,6 @@ Members: Linnea May, Jenny Chen
 Visualizing the hierarchial structure of knowledge using Wikipedia articles.    
 
 Members: Nikhil Saggi, Xinqi Lyu, Ziwei Gu, Eric Sun, Deb Bhattacharya, Ellen Chen
-
-## Past Projects
-For our first semester we are working on building up the team and our projects, with a strong focus on visualizing how different algorithms in the field of data science function. 
 
 ### [**Social Tribes**](https://github.com/CornellDataScience/Social-Tribes)  
 Analyzing the cluster of political journalists in Twitter through different unsupervised learning algorithms.
