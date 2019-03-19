@@ -18,20 +18,20 @@ Analyzing and visualizing methods to identify fake news.
 
 Members: Danny Yang, Linnea May, Eric Sun, Kathy JaYoung Byun
 
-### [**Spotify Recommendations**](https://github.com/CornellDataScience/Insights)  
+### [**Spotify Recommendations**](https://github.com/CornellDataScience/Insights-SpoRe)  
 
 Creating a new, more intuititve interface for recommending songs on Spotify. 
 
 Members: Brandon Truong, James Chen, Max Chen, Shalin Mehta
 
 
-### [**Knowledge Graphs**](https://github.com/CornellDataScience/Insights)  
+### [**Knowledge Graphs**](https://github.com/CornellDataScience/Insights-Knowledge-Graphs)  
 
 Compiling and visualizing a knowledge graph of academic articles. 
 
 Members: Ziwei Gu, Jenny Chen, Kevin Ngo, Tushar Khan
 
-### [**Comment Toxicity**](https://github.com/CornellDataScience/Insights)  
+### [**Comment Toxicity**](https://github.com/CornellDataScience/Insights-Comment-Toxicity)  
 
 Identifying and visualizing the presence of toxic comments online. 
 
