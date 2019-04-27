@@ -5,7 +5,7 @@ Insights Subteam
 **Advisor:** [Prof. Jeff Rzeszotarski](https://jeffrz.com/)
 
 ## About Us
-The Insighs team is one of the three subteams in [Cornell Data Science](cornelldata.science), a student led undergraduate project team at Cornell University. Our goal is to provide insight into complex systems through a combination of data science and visual interfaces. Our work is interdisciplinary and unique - our projects range from visualizing neural network training to applying natural language processing and deep learning towards detecting fake news.
+The Insights team is one of the three subteams in [Cornell Data Science](cornelldata.science), a student led undergraduate project team at Cornell University. Our goal is to provide insight into complex systems through a combination of data science and visual interfaces. Our work is interdisciplinary and unique - our projects range from visualizing neural network training to applying natural language processing and deep learning towards detecting fake news.
 
 ## Current Projects
 ### [**Fake News**](https://github.com/CornellDataScience/Insights-FakeNews)  
